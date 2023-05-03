@@ -1,0 +1,7 @@
+Question: what are the key things you would consider when creating/consuming an API to ensure that it is secure and reliable?
+
+Ans-while creating I would consider:-
+
+1.My Api should be secure(Spring security as well as other security) so that no one able to misuse it.
+2.should handle Exception so that user will not face difficulty.
+3.application should be created with less boiler plate code so that it can be easily understandable.
